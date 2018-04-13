@@ -1,0 +1,38 @@
+body {
+    background-color: #eceeff;
+    margin-top: 0;
+    margin-left: 0;
+    margin-bottom: 0;
+    margin-right: 0;
+}
+
+.header {
+  background-color: white;
+    color: black;
+    height: 100px;
+}
+
+.firstlogo{
+   float: left;
+    margin-top: 0px;
+    font-size: 1.4rem;
+    color: black;
+}
+
+.secondlogo{
+ float:left;
+    left:0px;
+    margin-top:20px;    
+}
+
+.thirdlogo{
+    float: left;
+    margin-top: 30px;
+}
+
+.links {
+    float: right;
+    margin-top: auto;
+    word-spacing: 20px;
+    
+}
