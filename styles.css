@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Nothing+You+Could+Do|Open+Sans+Condensed:300');
+@import url('https://fonts.googleapis.com/css?family=Nothing+You+Could+Do|Open+Sans+Condensed:300');@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
 
 
 body {
@@ -27,6 +27,9 @@ body {
 width:300px;
 float: left;
 margin-top: 0px;
+position:absolute;
+left:48px;
+top:8px;
 font-size: 1.4rem;
 color: black;
 font-family: 'Open Sans Condensed', sans-serif;
@@ -35,15 +38,23 @@ font-family: 'Open Sans Condensed', sans-serif;
 .secondlogo{
 width:300px;
 float:left;
-margin-top:5px; 
+position:absolute;
+left:5px;
+top:25px;
+font-size: 1.5rem;
 font-family: 'Nothing You Could Do', cursive;
+color:#9da6fe;
 }
 
 .thirdlogo{
 width:300px;
 float: left;
-margin-top: 10px;
+position:absolute;
+left:53px;
+top:43px;
+font-size: 1.1rem;
 font-family: 'Open Sans Condensed', sans-serif;
+
 }
 
 .links {
@@ -65,7 +76,31 @@ font-family: 'Open Sans Condensed', sans-serif;
 } 
 
 .imgage {
-     max-width: 780px;
-     width: 90%;
+    position: absolute;
+    left: 540px;
+    top: 140px;
+    
 }
+
+.title{
+    float: right;
+    position: absolute;
+    left: 800px;
+    top: 80px;
+    color: black;
+    font-family: 'Nothing You Could Do', cursive;
+    font-size: 2.0rem;
+    
+    
+}
+
+.paragraph{
+    position: absolute;
+    left: 540px;
+    top: 140px;
+    color: black;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 1.4rem;
+
+    
 }
