@@ -2,7 +2,7 @@
 
 
 body {
-    background-color: #9da6fe;
+    background-color: #eceeff;
     margin-top:0;
     margin-left: 0;
     margin-bottom: 0;
@@ -99,10 +99,15 @@ font-family: 'Open Sans Condensed', sans-serif;
 .paragraph{
     position: absolute;
     left: 540px;
-    top: 140px;
+    top: 210px;
     color: black;
     font-family: 'Open Sans Condensed', sans-serif;
     font-size: 1.4rem;
 
     
 }
+
+
+
+
+
